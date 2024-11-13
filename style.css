@@ -4,3 +4,7 @@
     box-sizing: border-box;
     font-family: 'Gilroy';
 }
+
+body{
+    background-color: teal;
+}
